@@ -1,0 +1,2 @@
+37baf52 (HEAD) HEAD@{3}: commit: dni nedeli alles klar^^
+dbe3a56 HEAD@{4}: commit: prog tr/fls alles klar^^
