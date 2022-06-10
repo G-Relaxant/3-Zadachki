@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GBazi\bin\Debug\net6.0\GBazi.exe
+C:\Users\user\Desktop\GBazi\bin\Debug\net6.0\GBazi.deps.json
+C:\Users\user\Desktop\GBazi\bin\Debug\net6.0\GBazi.runtimeconfig.json
+C:\Users\user\Desktop\GBazi\bin\Debug\net6.0\GBazi.dll
+C:\Users\user\Desktop\GBazi\bin\Debug\net6.0\GBazi.pdb
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.AssemblyInfo.cs
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.dll
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\refint\GBazi.dll
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.pdb
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\GBazi.genruntimeconfig.cache
+C:\Users\user\Desktop\GBazi\obj\Debug\net6.0\ref\GBazi.dll
