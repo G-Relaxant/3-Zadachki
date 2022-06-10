@@ -1,5 +1,10 @@
-﻿string input = Console.ReadLine(); // считывыет пользовательский ввод
-int number = Convert.ToInt32(input);
-Console.WriteLine(input);
+﻿Console.Write("Vvedite chislo: ");
 
-//программа будет выводить введенное мной число, но не слова
+
+string input = Console.ReadLine(); // считывыет пользовательский ввод
+int number = Convert.ToInt32(input);
+
+int result = number * number;
+
+Console.Write("Otvet: ");
+Console.Write(result);
