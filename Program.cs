@@ -6,5 +6,4 @@ int number = Convert.ToInt32(input);
 
 int result = number * number;
 
-Console.Write("Otvet: ");
-Console.Write(result);
+Console.WriteLine(number + "v kvadrate budet " + result);
